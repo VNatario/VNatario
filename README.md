@@ -22,8 +22,3 @@
   <a href = "mailto:natariovitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitor_natario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
-
-<div align="center">
-       <h3>A little abou myself ʕ •ᴥ•ʔ</h3>
-       <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/3yBmlfwaH0Ll9L00RC/giphy.gif?cid=790b7611c11f892597405dc3930dd9f8f88ea9dd0871cb41&rid=giphy.gif&ct=s"
-  </div>
