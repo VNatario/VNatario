@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Vitor mas pode me chamar de Natario 👻
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=VNatario&theme=aura&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VNatario&layout=compact&theme=aura&langs_count=10)](https://github.com/VNatario) 
+<div>
+  <a href="https://github.com/VNatario">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VNatario&include_all_commits=true&count_private=true&show_icons=true&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNatario&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natario-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
