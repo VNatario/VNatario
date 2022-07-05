@@ -2,6 +2,7 @@
 
 <div>
   <a href="https://github.com/VNatario">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VNatario&show_icons=true&count_private=true&theme=ocean_dark&include_all_commits=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNatario&layout=compact&langs_count=7&theme=ocean_dark"/>
@@ -23,4 +24,4 @@
   <a href="https://www.instagram.com/vitor_natario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VNatario&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/VNatario/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VNatario&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/VNatario)
