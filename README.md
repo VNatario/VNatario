@@ -3,8 +3,9 @@
 
 I'm a passionate Fullstack Web and Mobile Developer with a background in Industrial Mechatronics. My goal is to create innovative, user-friendly, and efficient web and mobile applications. I'm dedicated to expanding my skill set and staying at the forefront of the ever-evolving tech industry.
 <br/>
-<h2>About Me</h2>
 
+
+<h2>About Me</h2>
  🔭 I’m currently learning back-end environment in java☕.
  <br/>
  <br/>
@@ -15,28 +16,23 @@ I'm a passionate Fullstack Web and Mobile Developer with a background in Industr
  <br/>
  <br/>
 <img src="https://github.com/VNatario/VNatario/assets/68490412/91f0c204-371b-4d99-bf7f-a4cba145481f"/>
-
-
 <br/>
-<br/>
+
 <h2>Tech Stack</h2>
-
- 💻 **Frontend**: React, Next.js
+ 💻<strong>Frontend</strong>: React, Next.js
 <br/>
 <br/>
- 🖥️ **Backend**: Node.js, Java
+ 🖥️ <strong>Backend</strong>: Node.js, Java
 <br/>
 <br/> 
- 🐳 **DevOps**: Docker
+ 🐳 <strong>DevOps</strong>: Docker
 <br/>
 <br/>
-  📊 **Databases**: SQL, NoSQL
+  📊 <strong>Databases</strong>: SQL, NoSQL
 <br/>
 <br/>
   
-
 <h2>Let's Connect</h2>
-<br/>
 <a href="mailto:natariovitor@gmail.com">Email<a/>
 <br/>
 <a href="https://www.linkedin.com/in/vitor-natario/" target="_blank">Linkedin<a/>
