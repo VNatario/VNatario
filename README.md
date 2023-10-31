@@ -1,5 +1,18 @@
 <div align='center'>
-<h1>Hi there, I'm Vitor Natario 👻</h1> 
+
+<h1>You have visited many profiles. Rest a little</h1>
+<img src="https://github.com/VNatario/VNatario/assets/68490412/91f0c204-371b-4d99-bf7f-a4cba145481f"/>
+
+ 
+<h2>Hi there, I'm Vitor Natario 👻</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width=40/>
+<br/>
 
 I'm a passionate Fullstack Web and Mobile Developer with a background in Industrial Mechatronics. My goal is to create innovative, user-friendly, and efficient web and mobile applications. I'm dedicated to expanding my skill set and staying at the forefront of the ever-evolving tech industry.
 <br/>
@@ -10,31 +23,10 @@ I'm a passionate Fullstack Web and Mobile Developer with a background in Industr
  <br/>
  <br/>
  🌱 I’m constantly learning and staying up-to-date with the latest technologies.
- <br/>
- <br/>
-  👀 Pronouns: Dark souls 3 player...
- <br/>
- <br/>
-<img src="https://github.com/VNatario/VNatario/assets/68490412/91f0c204-371b-4d99-bf7f-a4cba145481f"/>
-<br/>
 
-<h2>Tech Stack</h2>
- 💻<strong>Frontend</strong>: React, Next.js
-<br/>
-<br/>
- 🖥️ <strong>Backend</strong>: Node.js, Java
-<br/>
-<br/> 
- 🐳 <strong>DevOps</strong>: Docker
-<br/>
-<br/>
-  📊 <strong>Databases</strong>: SQL, NoSQL
-<br/>
-<br/>
   
 <h2>Let's Connect</h2>
-<a href="mailto:natariovitor@gmail.com">Email<a/>
-<br/>
-<a href="https://www.linkedin.com/in/vitor-natario/" target="_blank">Linkedin<a/>
+  <a href = "mailto:natariovitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-natario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
